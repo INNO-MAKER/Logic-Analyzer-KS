@@ -1,6 +1,6 @@
 # Logic Analyzer KS Software Download
  
-## For Windows: [http://www.qdkingst.com/download/vis_win](http://www.qdkingst.com/download/vis_win)
+## For Windows: [Windows Software](http://www.qdkingst.com/download/vis_win)
 ## For Mac Os: http://www.qdkingst.com/download/vis_mac
 ## For Linux: http://www.qdkingst.com/download/vis_linux
 
